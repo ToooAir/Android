@@ -6,6 +6,8 @@ there is an easter egg in this homework.
 Ace of Heart
 
 HW2.
-I'm still working on this.
 RecyclerView!
-Wrong checkBox. 
+checkbox is working well.
+Rotation bug is solved.
+There is No EasterEgg on this HW.
+Otherwise, I want to put more bald head brother.
